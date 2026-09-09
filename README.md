@@ -441,6 +441,12 @@ Some potential improvements include:
 
 **Purushottam Thakur**
 
+GitHub: [@Thakur0012](https://github.com/Thakur0012)
+
+**Yash Thorat**
+
+GitHub: [@Yashhthorat](https://github.com/Yashhthorat)
+
 Full-stack developer interested in building modern web applications using React, Next.js, Node.js, databases, AI, and cloud technologies.
 
 This project demonstrates:
